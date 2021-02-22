@@ -33,7 +33,7 @@ Hypothesis: Music streaming volume is likely to increase and patterns in usersâ€
 - Indentify any trends for an individual track within the Top 200 Chart.
 
 ### Data Overview
-Our data shows a 6.5% (1.9 billion) decrease in streams in 2020.  Albeit having fewer streams 2020 showed an increase in total artists (+19), tracks (+111), and 70 total genres (+212%)  in the Top 200.
+Our data shows a 6.5% (1.9 billion) decrease in streams in 2020.  Albeit having fewer streams 2020 showed an increase in total artists (+24), tracks (+111), and 70 total genres (+212%)  in the Top 200.
 
 Next we show the differences between Spotify's elements and features.  A further look is taken into Danceabitlity and Energy because of their positive correlation.
 
