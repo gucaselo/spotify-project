@@ -1,4 +1,4 @@
-# spotify-project
+# Spotify Project
 This project is an overview of the Spotify Weekly Top 200 Charts and how music streaming was affected during Covid-19
 
 ## Table of Contents
