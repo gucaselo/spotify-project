@@ -24,13 +24,13 @@ Hypothesis: Music streaming volume is likely to increase and patterns in usersâ€
 - Squarify
 
 ### Scope of Work
-- Pull and merge weekly CSVs from Spotify
-- API call to retrieve additional data including Spotify defined elements
-- Perform comparative analysis between 2019 and 2020 datasets
-- Analyze Genres
-- Perform Audio Analysis and determine any correlation between Spotify music features
-- Compare any changes in audio features between 3 countries that drastically different pandemic response measures
-- Indentify any trends for an individual track within the Top 200 Chart
+- Pull and merge weekly CSVs from Spotify.
+- Created a spotify client to be utilized to make API calls to retrieve additional data including Spotify audio features.
+- Perform comparative analysis between 2019 and 2020 datasets.
+- Analyze Genres.
+- Perform Audio Analysis and determine any correlation between Spotify audio features.
+- Compare any changes in audio features between 3 countries that drastically different pandemic response measures.
+- Indentify any trends for an individual track within the Top 200 Chart.
 
 ### Data Overview
 Our data shows a 6.5% (1.9 billion) decrease in streams in 2020.  Albeit having fewer streams 2020 showed an increase in total artists (+19), tracks (+111), and 70 total genres (+212%)  in the Top 200.
