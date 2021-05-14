@@ -16,7 +16,7 @@ Objective: We set out to identify any change in trends within Spotify Top 200 mu
 Hypothesis: Music streaming volume is likely to increase and patterns in users’ music selection will shift to more tracks that are lower in energy, less dancible, and overall have a more sorrowful mood.
 
 ### Technologies
-- Python 3.7
+- Python
 - Pandas
 - Matplotlib
 - Seaborn
@@ -40,6 +40,8 @@ Next we show the differences between Spotify's elements and features.  A further
 Radar, Bar, and Desity plots are used to show the Music Moods and distribution in the first 6 months of 2020 for the United States, Italy, and Sweden.  These three countries were picked based on the decisions on how to handle the Covid 19 pandemic.  
 
 We chose to take a deep dive into the artist The Weeknd and his single 'Blinding Lights' about how other factors can affect streams.  The charts follow the release dates and performances throughout the year.
+
+<img src="output_plots/Density Plot of Sweden, Italy and USA in March (Valence).png"/>
 
 
 ### Output
